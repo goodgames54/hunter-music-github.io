@@ -8,11 +8,8 @@ int appWidth = displayWidth;
 int appHeight = displayHeight;
 //
 String upArow = "..";
-String dependanciesFolder = "Dependencies";
 String imagesFolder = "Images";
-String imageName1 = "Mona-Lisa-67-805x1200";
-String imageName2 = "bike";
-String imageName3 = "SoccerBall";
+String imageName1 = "Wreckfest+2";
 String fileExension = ".jpg";
 String open = "/";
 //
