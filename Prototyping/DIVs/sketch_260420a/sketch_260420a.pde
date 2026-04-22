@@ -73,3 +73,12 @@ if ( playList[currentSong]==null || soundEffects[currentSong]==null ) { //ERROR,
   playList[currentSong].play();
   printArray(playList);
 }
+}//End Setup
+//
+void draw() {}//End Draw
+//
+void mousePressed() {}//End Mouse Pressed
+//
+void keyPressed() {}//End Key Pressed
+//
+//End MAIN Program
