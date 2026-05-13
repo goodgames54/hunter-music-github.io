@@ -9,7 +9,10 @@ import ddf.minim.signals.*;
 import ddf.minim.spi.*;
 import ddf.minim.ugens.*;
 //
-//global vartiables
+/*global vartiables
+ - possible DIV-vars needed in draw(), etc.
+ - MUST: music button-vars, possibly associated DIV-vars
+*/
 //
 void setup() {}//end setup
 //
