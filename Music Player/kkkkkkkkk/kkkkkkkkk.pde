@@ -15,7 +15,20 @@ import ddf.minim.ugens.*;
 */
 //
 void setup() {}//end setup
+//Display
+//fullScreen();
+size(700, 500);
+int appWidth = width; //displaywidth
+int appHeight = height; //displayheight
 //
+//DIVs Population using unitless ratios (i.e. millimeters to pixels)
+//see case study
+int paperwidth = 279; //best practice: local variables use to make DIV Variables
+int paperheight = 216; //MrM #'s, students must use their own
+//float Divx = appwidth * ??? / paperwidth;
+
+
+
 void draw() {}//end draw
 //
 void mousePressed() {}//end mouse pressed
