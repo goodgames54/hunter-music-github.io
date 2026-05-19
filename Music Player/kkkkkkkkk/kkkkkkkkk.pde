@@ -26,9 +26,13 @@ int appHeight = height; //displayheight
 int paperwidth = 279; //best practice: local variables use to make DIV Variables
 int paperheight = 216; //MrM #'s, students must use their own
 //float Divx = appwidth * ??? / paperwidth;
-
-
-
+//float Divy = appheight * ??? / paperHeight;
+//float DivWidth = appwidth * ??? / paperwidth;
+//float Divheight = appheight * ??? / paperheight;
+//
+//
+//
+//
 void draw() {}//end draw
 //
 void mousePressed() {}//end mouse pressed
