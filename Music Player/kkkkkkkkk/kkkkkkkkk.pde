@@ -34,6 +34,8 @@ int paperheight = 216; //MrM #'s, students must use their own
 //
 //
 void draw() {}//end draw
+//2d music symbol changes: hovorover activation. booleam from mousepressed
+//end draw
 //
 void mousePressed() {}//end mouse pressed
 //
