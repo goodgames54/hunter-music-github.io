@@ -16,7 +16,7 @@ import ddf.minim.ugens.*;
 //
 void setup() {}//end setup
 //Display
-//fullScreen();
+fullScreen(800);
 size(700, 500);
 int appWidth = width; //displaywidth
 int appHeight = height; //displayheight
