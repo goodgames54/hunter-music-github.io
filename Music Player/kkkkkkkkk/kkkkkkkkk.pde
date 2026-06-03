@@ -38,6 +38,11 @@ void draw() {}//end draw
 //end draw
 //
 void mousePressed() {}//end mouse pressed
+//2d music symbol changes: sending Boolean to draw()
+//End mouse pressed
 //
 void keyPressed() {}//end key pressed
+//key board stort cuts for music features, built from limited minim library functions
+//End key pressed
 //
+//end MAIN program
